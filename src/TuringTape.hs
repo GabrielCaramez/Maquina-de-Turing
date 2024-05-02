@@ -3,7 +3,6 @@ Module      :  TuringTape
 Description :  Module that implements a Tape for a Turing Machine as a ListZipper.
 Copyright   :
 License     :
-Maintainer  :  sy35@st-andrews.ac.uk
 
 The Tape for a TuringMachine is implemented as a ListZipper. This gives us O(1) operations on the list.
 
