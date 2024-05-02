@@ -3,7 +3,6 @@ Module      :  TuringMachine
 Description :  A Turing Machine implementation.
 Copyright   :
 License     :
-Maintainer  :  sy35@st-andrews.ac.uk
 
 Defines all data structures used to create the TuringMachine such as the tape and transition functions. 
 -}
